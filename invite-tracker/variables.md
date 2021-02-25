@@ -11,6 +11,7 @@ You can use several variables while configuring **join messages**, **leave messa
 | %member\_discriminator% | Member's discriminator | `JOIN`, `LEAVE`, `JOIN DM` |
 | %member\_mention% | Mention the member | `JOIN`, `LEAVE`, `JOIN DM` |
 | %member\_id% | Member's Discord ID | `JOIN`, `LEAVE`, `JOIN DM` |
+| %member\_avatar% | Member's Discord profile picture | `JOIN`, `LEAVE` |
 | %member\_created% | When the member made their account | `JOIN`, `LEAVE`, `JOIN DM` |
 | %member\_created\_ago% | How many days ago the member made their account | `JOIN`, `LEAVE`, `JOIN DM` |
 | %member\_joined% | When the member joined the server | `LEAVE` |
@@ -22,12 +23,14 @@ You can use several variables while configuring **join messages**, **leave messa
 | %inviter\_discriminator% | Inviter's discriminator | `JOIN`, `LEAVE`, `JOIN DM` |
 | %inviter\_mention% | Inviter's mention | `JOIN`, `LEAVE`, `JOIN DM` |
 | %inviter\_id% | Inviter's Discord ID | `JOIN`, `LEAVE`, `JOIN DM` |
+| %inviter\_avatar% | Inviter's Discord profile picture | `JOIN`, `LEAVE` |
 | %inviter\_invites% | Inviter's number of total invites | `JOIN`, `LEAVE`, `JOIN DM` |
 | %inviter\_reg\_invites% | Inviter's number of regular invites | `JOIN`, `LEAVE`, `JOIN DM` |
 | %inviter\_leave\_invites% | Inviter's number of leave invites | `JOIN`, `LEAVE`, `JOIN DM` |
 | %inviter\_fake\_invites% | Inviter's number of fakes invites | `JOIN`, `LEAVE`, `JOIN DM` |
 | %inviter\_bonus\_invites% | Inviter's number of bonus invites | `JOIN`, `LEAVE`, `JOIN DM` |
 | %guild\_name% | Server's name | `JOIN`, `LEAVE`, `JOIN DM` |
+| %guild\_avatar% | Server's icon | `JOIN`, `LEAVE` |
 | %guild\_count% | Number of members in the server | `JOIN`, `LEAVE`, `JOIN DM` |
 | %invite\_code% | The invite code the user used | `JOIN` |
 | %invite\_uses% | The number of uses the invite code has | `JOIN` |
