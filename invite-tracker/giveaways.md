@@ -1,7 +1,7 @@
 # Giveaways
 
 {% hint style="warning" %}
-All giveaways commands requires you to have the **Administrator** permission.
+All giveaways commands requires you to have the **Administrator** permission or to have one of the giveaway manager roles \(`-grolemanager`\).
 {% endhint %}
 
 | Command | Description |
