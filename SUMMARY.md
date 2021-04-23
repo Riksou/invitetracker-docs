@@ -12,7 +12,7 @@
 
 ## Links
 
-* [Invite Invite Tracker](https://discordapp.com/oauth2/authorize?client_id=720351927581278219&scope=bot&permissions=268790896)
+* [Invite Invite Tracker](https://invite.invite-tracker.com/)
 * [Support server](https://discord.gg/8RwBGuf)
 * [Dashboard](https://invite-tracker.com/)
 * [Vote for Invite Tracker](https://top.gg/bot/720351927581278219/vote)
