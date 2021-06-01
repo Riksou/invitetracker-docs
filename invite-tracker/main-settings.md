@@ -48,7 +48,7 @@ Normal, vanity, bot, no-perm, unknown are the way a new member joined your serve
 | :--- | :--- |
 |  `-configenable <join/leave/joindm> <True/False>` | Enable or disable the join, leave or join DM messages |
 
-## Rewards Roles
+## Reward Roles
 
 | Command | Description |
 | :--- | :--- |
