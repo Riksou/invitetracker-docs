@@ -54,5 +54,5 @@ Normal, vanity, bot, no-perm, unknown are the way a new member joined your serve
 | :--- | :--- |
 | `-rewardroles add <@role> <message count>` | Add a reward role for messages. |
 | `-rewardroles remove <@role> <message count>` | Remove a reward role for messages. |
-| `-rewardsroles` | Display all off the existant rewards roles for messages. |
+| `-rewardsroles` | Display all of the existent rewards roles for messages. |
 
