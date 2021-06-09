@@ -13,9 +13,9 @@ You can use several variables while configuring **join messages**, **leave messa
 | %member\_id% | Member's Discord ID | `JOIN`, `LEAVE`, `JOIN DM` |
 | %member\_avatar% | Member's Discord profile picture | `JOIN`, `LEAVE` |
 | %member\_created% | When the member made their account | `JOIN`, `LEAVE`, `JOIN DM` |
-| %member\_created\_ago% | How many days ago the member made their account | `JOIN`, `LEAVE`, `JOIN DM` |
+| %member\_created\_ago% | How long ago the member made their account | `JOIN`, `LEAVE`, `JOIN DM` |
 | %member\_joined% | When the member joined the server | `LEAVE` |
-| %member\_joined\_ago% | How many days ago the member joined the server | `LEAVE` |
+| %member\_joined\_ago% | How long ago the member joined the server | `LEAVE` |
 | %member\_join\_count% | How many times the member joined the server | `JOIN`, `LEAVE`, `JOIN DM` |
 | %member\_leave\_count% | How many times the member left the server | `JOIN`, `LEAVE`, `JOIN DM` |
 | %inviter% | Inviter's name and discriminator | `JOIN`, `LEAVE`, `JOIN DM` |
