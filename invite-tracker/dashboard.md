@@ -52,7 +52,7 @@ As of now, there are only two different administration settings available on the
 
 ## Join, Join DM and Leave Messages
 
-Join, leave and join DM messages are all very similar plugins that are set up and do almost the exact same thing. The only differences being the reasons for the different messages to trigger and the different variables you can use.  
+Join, leave and join DM messages are all very similar plugins that are set up and do almost the exact same thing. The only differences being the reasons for the different messages to trigger and the different variables you can use to configure them.  
 For our examples, we will be using join messages.
 
 ### Configuring a Channel
