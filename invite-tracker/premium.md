@@ -17,7 +17,6 @@ If you are looking to enhance your experience with Invite Tracker, you have come
 * Configure the **vanity message type** for join and leave messages.
 * Option to **DM the winners** of a giveaway.
 * Option to **give roles to the winners** of a giveaway.
-* Ability to **create drop giveaways**.
 * Ability to **edit giveaways** on the dashboard.
 * 25% chance booster for giveaway **disabled** in your server.
 * Up to **50 running giveaways.**
