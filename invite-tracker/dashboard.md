@@ -73,7 +73,7 @@ When you have chosen the message type you want to configure, then you may pay at
 
 #### Using Variables
 
-Usually, you want the message to display information that changes depending on who just joined or who invited the person that just joined, for example. The way to add this type of varying information is by adding variables. You can find the complete list of all variables [here](https://app.gitbook.com/@invite-tracker-1/s/invite-tracker-docs/~/drafts/-Mb6RUIyfud5M2ezHI-l/commands/configuration/variables#all-variables-and-their-explanation).
+Usually, you want the message to display information that changes depending on who just joined or who invited the person that just joined, for example. The way to add this type of varying information is by adding variables. You can find the complete list of all variables [here](../commands/configuration/variables.md).
 
 #### Using Emojis
 
