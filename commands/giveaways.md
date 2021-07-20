@@ -28,14 +28,6 @@ You can not configure Invite Tracker to send a dm to the winner\(s\), add roles 
 When ending a giveaway it will choose winners. When deleting a giveaway it just permanently removes it.
 {% endhint %}
 
-### ![](../.gitbook/assets/premium.png) Giveaway Drop
-
-Giveaway drops are a type of giveaway where it is the first person to react who wins.
-
-| Command | Description |
-| :--- | :--- |
-| `-giveaway drop <#channel> <duration> <winner amount> <prize>` | Creates a giveaway drop in the specified channel |
-
 ### Managing Giveaways
 
 | Command | Description |
